@@ -1,0 +1,15 @@
+flask
+python-dotenv
+torch
+torchvision
+opencv-python-headless
+pydicom
+matplotlib
+albumentations
+groq
+stable-baselines3
+gymnasium
+shimmy
+pillow
+numpy
+fpdf
